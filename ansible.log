@@ -1,0 +1,672 @@
+2026-10-25 21:07:07,199 p=19504 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:07:07,861 p=19504 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:07:08,768 p=19504 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:07:09,393 p=19504 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:07:09,919 p=19504 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:07:10,320 p=19504 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:07:10,814 p=19504 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:07:12,133 p=19504 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:07:13,482 p=19504 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:07:14,770 p=19504 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:07:16,030 p=19504 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:07:17,811 p=19504 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:07:18,784 p=19504 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:07:20,266 p=19504 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:07:20,755 p=19504 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:07:21,470 p=19504 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:07:22,198 p=19504 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:07:23,076 p=19504 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:07:24,160 p=19504 u=tunde n=ansible | {
+    "_meta": {
+        "hostvars": {}
+    },
+    "all": {
+        "children": [
+            "ungrouped",
+            "aws_ec2"
+        ]
+    }
+}
+2026-10-25 21:11:24,234 p=20397 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:11:24,780 p=20397 u=tunde n=ansible | {
+    "_meta": {
+        "hostvars": {}
+    },
+    "all": {
+        "children": [
+            "ungrouped",
+            "aws_ec2"
+        ]
+    }
+}
+2026-10-25 21:12:23,927 p=20745 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:12:24,488 p=20745 u=tunde n=ansible | {
+    "_meta": {
+        "hostvars": {}
+    },
+    "all": {
+        "children": [
+            "ungrouped",
+            "aws_ec2"
+        ]
+    }
+}
+2026-10-25 21:14:39,596 p=21197 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:14:40,153 p=21197 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:14:41,070 p=21197 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:14:41,592 p=21197 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:14:42,099 p=21197 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:14:42,473 p=21197 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:14:43,045 p=21197 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:14:44,370 p=21197 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:14:45,652 p=21197 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:14:46,989 p=21197 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:14:48,062 p=21197 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:14:49,206 p=21197 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:14:50,234 p=21197 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:14:51,727 p=21197 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:14:52,213 p=21197 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:14:52,999 p=21197 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:14:53,747 p=21197 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:14:54,657 p=21197 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:14:55,615 p=21197 u=tunde n=ansible | {
+    "_meta": {
+        "hostvars": {}
+    },
+    "all": {
+        "children": [
+            "ungrouped",
+            "aws_ec2"
+        ]
+    }
+}
+2026-10-25 21:18:01,635 p=21937 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:18:02,278 p=21937 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:18:03,267 p=21937 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:18:03,964 p=21937 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:18:04,482 p=21937 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:18:04,926 p=21937 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:18:05,437 p=21937 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:18:06,726 p=21937 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:18:08,046 p=21937 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:18:09,363 p=21937 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:18:10,430 p=21937 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:18:11,597 p=21937 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:18:12,623 p=21937 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:18:14,135 p=21937 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:18:14,670 p=21937 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:18:15,392 p=21937 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:18:16,158 p=21937 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:18:17,058 p=21937 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 21:18:17,940 p=21937 u=tunde n=ansible | @all:
+  |--@ungrouped:
+  |--@aws_ec2:
+2026-10-25 23:02:22,324 p=36016 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-25 23:02:22,797 p=36016 u=tunde n=ansible | @all:
+  |--@ungrouped:
+  |--@aws_ec2:
+2026-10-26 13:12:16,598 p=4377 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-26 13:12:17,379 p=4377 u=tunde n=ansible | {
+    "_meta": {
+        "hostvars": {}
+    },
+    "all": {
+        "children": [
+            "ungrouped",
+            "aws_ec2"
+        ]
+    }
+}
+2026-10-26 13:56:19,213 p=13487 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-26 13:56:19,822 p=13487 u=tunde n=ansible | {
+    "_meta": {
+        "hostvars": {
+            "ec2-18-130-212-196.eu-west-2.compute.amazonaws.com": {
+                "ami_launch_index": 0,
+                "architecture": "x86_64",
+                "block_device_mappings": [
+                    {
+                        "device_name": "/dev/xvda",
+                        "ebs": {
+                            "attach_time": "2026-10-26T13:51:06+00:00",
+                            "delete_on_termination": true,
+                            "status": "attached",
+                            "volume_id": "vol-027b37c1e5abde753"
+                        }
+                    }
+                ],
+                "boot_mode": "uefi-preferred",
+                "capacity_reservation_specification": {
+                    "capacity_reservation_preference": "open"
+                },
+                "client_token": "f8c685e1-ea75-ee35-2909-3b15de8a8def",
+                "cpu_options": {
+                    "core_count": 1,
+                    "threads_per_core": 1
+                },
+                "current_instance_boot_mode": "legacy-bios",
+                "ebs_optimized": false,
+                "ena_support": true,
+                "enclave_options": {
+                    "enabled": false
+                },
+                "hibernation_options": {
+                    "configured": false
+                },
+                "hypervisor": "xen",
+                "iam_instance_profile": {
+                    "arn": "arn:aws:iam::438294253750:instance-profile/ec2-s3-instance-profile",
+                    "id": "AIPAWMDC7SC3IKSTUQ45Y"
+                },
+                "image_id": "ami-011c04cb040289c2a",
+                "instance_id": "i-05d92eb91a5712d8a",
+                "instance_type": "t2.micro",
+                "key_name": "mine",
+                "launch_time": "2026-10-26T13:51:05+00:00",
+                "maintenance_options": {
+                    "auto_recovery": "default"
+                },
+                "metadata_options": {
+                    "http_endpoint": "enabled",
+                    "http_protocol_ipv6": "disabled",
+                    "http_put_response_hop_limit": 2,
+                    "http_tokens": "required",
+                    "instance_metadata_tags": "disabled",
+                    "state": "applied"
+                },
+                "monitoring": {
+                    "state": "disabled"
+                },
+                "network_interfaces": [
+                    {
+                        "association": {
+                            "ip_owner_id": "amazon",
+                            "public_dns_name": "ec2-18-130-212-196.eu-west-2.compute.amazonaws.com",
+                            "public_ip": "18.130.212.196"
+                        },
+                        "attachment": {
+                            "attach_time": "2026-10-26T13:51:05+00:00",
+                            "attachment_id": "eni-attach-01d8a8d0e449a48e1",
+                            "delete_on_termination": true,
+                            "device_index": 0,
+                            "network_card_index": 0,
+                            "status": "attached"
+                        },
+                        "description": "",
+                        "groups": [
+                            {
+                                "group_id": "sg-04137f108966c94ca",
+                                "group_name": "banking-ha-sg"
+                            }
+                        ],
+                        "interface_type": "interface",
+                        "ipv6_addresses": [],
+                        "mac_address": "0a:ff:fc:84:15:bb",
+                        "network_interface_id": "eni-09aec80e6fe9395a2",
+                        "owner_id": "438294253750",
+                        "private_dns_name": "ip-172-31-38-55.eu-west-2.compute.internal",
+                        "private_ip_address": "172.31.38.55",
+                        "private_ip_addresses": [
+                            {
+                                "association": {
+                                    "ip_owner_id": "amazon",
+                                    "public_dns_name": "ec2-18-130-212-196.eu-west-2.compute.amazonaws.com",
+                                    "public_ip": "18.130.212.196"
+                                },
+                                "primary": true,
+                                "private_dns_name": "ip-172-31-38-55.eu-west-2.compute.internal",
+                                "private_ip_address": "172.31.38.55"
+                            }
+                        ],
+                        "source_dest_check": true,
+                        "status": "in-use",
+                        "subnet_id": "subnet-0786e56b84ef0b03f",
+                        "vpc_id": "vpc-06d940850c06f1ea6"
+                    }
+                ],
+                "owner_id": "438294253750",
+                "placement": {
+                    "availability_zone": "eu-west-2b",
+                    "group_name": "",
+                    "region": "eu-west-2",
+                    "tenancy": "default"
+                },
+                "platform_details": "Linux/UNIX",
+                "private_dns_name": "ip-172-31-38-55.eu-west-2.compute.internal",
+                "private_dns_name_options": {
+                    "enable_resource_name_dns_a_record": false,
+                    "enable_resource_name_dns_aaaa_record": false,
+                    "hostname_type": "ip-name"
+                },
+                "private_ip_address": "172.31.38.55",
+                "product_codes": [],
+                "public_dns_name": "ec2-18-130-212-196.eu-west-2.compute.amazonaws.com",
+                "public_ip_address": "18.130.212.196",
+                "requester_id": "626974355284",
+                "reservation_id": "r-07040a4bfdf39ffdc",
+                "root_device_name": "/dev/xvda",
+                "root_device_type": "ebs",
+                "security_groups": [
+                    {
+                        "group_id": "sg-04137f108966c94ca",
+                        "group_name": "banking-ha-sg"
+                    }
+                ],
+                "source_dest_check": true,
+                "state": {
+                    "code": 16,
+                    "name": "running"
+                },
+                "state_transition_reason": "",
+                "subnet_id": "subnet-0786e56b84ef0b03f",
+                "tags": {
+                    "Name": "banking-app",
+                    "aws:autoscaling:groupName": "banking-app-asg-ee3036757f762005302727304c",
+                    "aws:ec2launchtemplate:id": "lt-058d321485c5d15b8",
+                    "aws:ec2launchtemplate:version": "1"
+                },
+                "usage_operation": "RunInstances",
+                "usage_operation_update_time": "2026-10-26T13:51:05+00:00",
+                "virtualization_type": "hvm",
+                "vpc_id": "vpc-06d940850c06f1ea6"
+            },
+            "ec2-18-170-230-245.eu-west-2.compute.amazonaws.com": {
+                "ami_launch_index": 0,
+                "architecture": "x86_64",
+                "block_device_mappings": [
+                    {
+                        "device_name": "/dev/xvda",
+                        "ebs": {
+                            "attach_time": "2026-10-26T13:51:05+00:00",
+                            "delete_on_termination": true,
+                            "status": "attached",
+                            "volume_id": "vol-0c686d15288a6d006"
+                        }
+                    }
+                ],
+                "boot_mode": "uefi-preferred",
+                "capacity_reservation_specification": {
+                    "capacity_reservation_preference": "open"
+                },
+                "client_token": "87d685e1-ea74-5c3b-5862-bafb12f699d8",
+                "cpu_options": {
+                    "core_count": 1,
+                    "threads_per_core": 1
+                },
+                "current_instance_boot_mode": "legacy-bios",
+                "ebs_optimized": false,
+                "ena_support": true,
+                "enclave_options": {
+                    "enabled": false
+                },
+                "hibernation_options": {
+                    "configured": false
+                },
+                "hypervisor": "xen",
+                "iam_instance_profile": {
+                    "arn": "arn:aws:iam::438294253750:instance-profile/ec2-s3-instance-profile",
+                    "id": "AIPAWMDC7SC3IKSTUQ45Y"
+                },
+                "image_id": "ami-011c04cb040289c2a",
+                "instance_id": "i-0d5254e47ae6c9b8b",
+                "instance_type": "t2.micro",
+                "key_name": "mine",
+                "launch_time": "2026-10-26T13:51:05+00:00",
+                "maintenance_options": {
+                    "auto_recovery": "default"
+                },
+                "metadata_options": {
+                    "http_endpoint": "enabled",
+                    "http_protocol_ipv6": "disabled",
+                    "http_put_response_hop_limit": 2,
+                    "http_tokens": "required",
+                    "instance_metadata_tags": "disabled",
+                    "state": "applied"
+                },
+                "monitoring": {
+                    "state": "disabled"
+                },
+                "network_interfaces": [
+                    {
+                        "association": {
+                            "ip_owner_id": "amazon",
+                            "public_dns_name": "ec2-18-170-230-245.eu-west-2.compute.amazonaws.com",
+                            "public_ip": "18.170.230.245"
+                        },
+                        "attachment": {
+                            "attach_time": "2026-10-26T13:51:05+00:00",
+                            "attachment_id": "eni-attach-0dea9726226aec25b",
+                            "delete_on_termination": true,
+                            "device_index": 0,
+                            "network_card_index": 0,
+                            "status": "attached"
+                        },
+                        "description": "",
+                        "groups": [
+                            {
+                                "group_id": "sg-04137f108966c94ca",
+                                "group_name": "banking-ha-sg"
+                            }
+                        ],
+                        "interface_type": "interface",
+                        "ipv6_addresses": [],
+                        "mac_address": "06:ff:e0:d3:2d:dd",
+                        "network_interface_id": "eni-07a6b468ee48fd2b4",
+                        "owner_id": "438294253750",
+                        "private_dns_name": "ip-172-31-21-195.eu-west-2.compute.internal",
+                        "private_ip_address": "172.31.21.195",
+                        "private_ip_addresses": [
+                            {
+                                "association": {
+                                    "ip_owner_id": "amazon",
+                                    "public_dns_name": "ec2-18-170-230-245.eu-west-2.compute.amazonaws.com",
+                                    "public_ip": "18.170.230.245"
+                                },
+                                "primary": true,
+                                "private_dns_name": "ip-172-31-21-195.eu-west-2.compute.internal",
+                                "private_ip_address": "172.31.21.195"
+                            }
+                        ],
+                        "source_dest_check": true,
+                        "status": "in-use",
+                        "subnet_id": "subnet-0fef3d105e522253a",
+                        "vpc_id": "vpc-06d940850c06f1ea6"
+                    }
+                ],
+                "owner_id": "438294253750",
+                "placement": {
+                    "availability_zone": "eu-west-2a",
+                    "group_name": "",
+                    "region": "eu-west-2",
+                    "tenancy": "default"
+                },
+                "platform_details": "Linux/UNIX",
+                "private_dns_name": "ip-172-31-21-195.eu-west-2.compute.internal",
+                "private_dns_name_options": {
+                    "enable_resource_name_dns_a_record": false,
+                    "enable_resource_name_dns_aaaa_record": false,
+                    "hostname_type": "ip-name"
+                },
+                "private_ip_address": "172.31.21.195",
+                "product_codes": [],
+                "public_dns_name": "ec2-18-170-230-245.eu-west-2.compute.amazonaws.com",
+                "public_ip_address": "18.170.230.245",
+                "requester_id": "626974355284",
+                "reservation_id": "r-0be9674df38fe5625",
+                "root_device_name": "/dev/xvda",
+                "root_device_type": "ebs",
+                "security_groups": [
+                    {
+                        "group_id": "sg-04137f108966c94ca",
+                        "group_name": "banking-ha-sg"
+                    }
+                ],
+                "source_dest_check": true,
+                "state": {
+                    "code": 16,
+                    "name": "running"
+                },
+                "state_transition_reason": "",
+                "subnet_id": "subnet-0fef3d105e522253a",
+                "tags": {
+                    "Name": "banking-app",
+                    "aws:autoscaling:groupName": "banking-app-asg-ee3036757f762005302727304c",
+                    "aws:ec2launchtemplate:id": "lt-058d321485c5d15b8",
+                    "aws:ec2launchtemplate:version": "1"
+                },
+                "usage_operation": "RunInstances",
+                "usage_operation_update_time": "2026-10-26T13:51:05+00:00",
+                "virtualization_type": "hvm",
+                "vpc_id": "vpc-06d940850c06f1ea6"
+            },
+            "ec2-18-170-40-62.eu-west-2.compute.amazonaws.com": {
+                "ami_launch_index": 0,
+                "architecture": "x86_64",
+                "block_device_mappings": [
+                    {
+                        "device_name": "/dev/xvda",
+                        "ebs": {
+                            "attach_time": "2026-10-26T13:51:06+00:00",
+                            "delete_on_termination": true,
+                            "status": "attached",
+                            "volume_id": "vol-0e07cc8d9c314988b"
+                        }
+                    }
+                ],
+                "boot_mode": "uefi-preferred",
+                "capacity_reservation_specification": {
+                    "capacity_reservation_preference": "open"
+                },
+                "client_token": "26a685e1-ea73-ee4e-552b-f0d8703720c0",
+                "cpu_options": {
+                    "core_count": 1,
+                    "threads_per_core": 1
+                },
+                "current_instance_boot_mode": "legacy-bios",
+                "ebs_optimized": false,
+                "ena_support": true,
+                "enclave_options": {
+                    "enabled": false
+                },
+                "hibernation_options": {
+                    "configured": false
+                },
+                "hypervisor": "xen",
+                "iam_instance_profile": {
+                    "arn": "arn:aws:iam::438294253750:instance-profile/ec2-s3-instance-profile",
+                    "id": "AIPAWMDC7SC3IKSTUQ45Y"
+                },
+                "image_id": "ami-011c04cb040289c2a",
+                "instance_id": "i-085e5d62ccfbd4929",
+                "instance_type": "t2.micro",
+                "key_name": "mine",
+                "launch_time": "2026-10-26T13:51:05+00:00",
+                "maintenance_options": {
+                    "auto_recovery": "default"
+                },
+                "metadata_options": {
+                    "http_endpoint": "enabled",
+                    "http_protocol_ipv6": "disabled",
+                    "http_put_response_hop_limit": 2,
+                    "http_tokens": "required",
+                    "instance_metadata_tags": "disabled",
+                    "state": "applied"
+                },
+                "monitoring": {
+                    "state": "disabled"
+                },
+                "network_interfaces": [
+                    {
+                        "association": {
+                            "ip_owner_id": "amazon",
+                            "public_dns_name": "ec2-18-170-40-62.eu-west-2.compute.amazonaws.com",
+                            "public_ip": "18.170.40.62"
+                        },
+                        "attachment": {
+                            "attach_time": "2026-10-26T13:51:05+00:00",
+                            "attachment_id": "eni-attach-0fc8414e3ce32dc2e",
+                            "delete_on_termination": true,
+                            "device_index": 0,
+                            "network_card_index": 0,
+                            "status": "attached"
+                        },
+                        "description": "",
+                        "groups": [
+                            {
+                                "group_id": "sg-04137f108966c94ca",
+                                "group_name": "banking-ha-sg"
+                            }
+                        ],
+                        "interface_type": "interface",
+                        "ipv6_addresses": [],
+                        "mac_address": "02:ff:f3:a6:23:7f",
+                        "network_interface_id": "eni-004d3b371de1cad97",
+                        "owner_id": "438294253750",
+                        "private_dns_name": "ip-172-31-0-212.eu-west-2.compute.internal",
+                        "private_ip_address": "172.31.0.212",
+                        "private_ip_addresses": [
+                            {
+                                "association": {
+                                    "ip_owner_id": "amazon",
+                                    "public_dns_name": "ec2-18-170-40-62.eu-west-2.compute.amazonaws.com",
+                                    "public_ip": "18.170.40.62"
+                                },
+                                "primary": true,
+                                "private_dns_name": "ip-172-31-0-212.eu-west-2.compute.internal",
+                                "private_ip_address": "172.31.0.212"
+                            }
+                        ],
+                        "source_dest_check": true,
+                        "status": "in-use",
+                        "subnet_id": "subnet-02b27a6ac45ce1437",
+                        "vpc_id": "vpc-06d940850c06f1ea6"
+                    }
+                ],
+                "owner_id": "438294253750",
+                "placement": {
+                    "availability_zone": "eu-west-2c",
+                    "group_name": "",
+                    "region": "eu-west-2",
+                    "tenancy": "default"
+                },
+                "platform_details": "Linux/UNIX",
+                "private_dns_name": "ip-172-31-0-212.eu-west-2.compute.internal",
+                "private_dns_name_options": {
+                    "enable_resource_name_dns_a_record": false,
+                    "enable_resource_name_dns_aaaa_record": false,
+                    "hostname_type": "ip-name"
+                },
+                "private_ip_address": "172.31.0.212",
+                "product_codes": [],
+                "public_dns_name": "ec2-18-170-40-62.eu-west-2.compute.amazonaws.com",
+                "public_ip_address": "18.170.40.62",
+                "requester_id": "626974355284",
+                "reservation_id": "r-0c64ede9b856ac96b",
+                "root_device_name": "/dev/xvda",
+                "root_device_type": "ebs",
+                "security_groups": [
+                    {
+                        "group_id": "sg-04137f108966c94ca",
+                        "group_name": "banking-ha-sg"
+                    }
+                ],
+                "source_dest_check": true,
+                "state": {
+                    "code": 16,
+                    "name": "running"
+                },
+                "state_transition_reason": "",
+                "subnet_id": "subnet-02b27a6ac45ce1437",
+                "tags": {
+                    "Name": "banking-app",
+                    "aws:autoscaling:groupName": "banking-app-asg-ee3036757f762005302727304c",
+                    "aws:ec2launchtemplate:id": "lt-058d321485c5d15b8",
+                    "aws:ec2launchtemplate:version": "1"
+                },
+                "usage_operation": "RunInstances",
+                "usage_operation_update_time": "2026-10-26T13:51:05+00:00",
+                "virtualization_type": "hvm",
+                "vpc_id": "vpc-06d940850c06f1ea6"
+            }
+        }
+    },
+    "all": {
+        "children": [
+            "ungrouped",
+            "aws_ec2",
+            "name_banking_app"
+        ]
+    },
+    "aws_ec2": {
+        "hosts": [
+            "ec2-18-130-212-196.eu-west-2.compute.amazonaws.com",
+            "ec2-18-170-40-62.eu-west-2.compute.amazonaws.com",
+            "ec2-18-170-230-245.eu-west-2.compute.amazonaws.com"
+        ]
+    },
+    "name_banking_app": {
+        "hosts": [
+            "ec2-18-130-212-196.eu-west-2.compute.amazonaws.com",
+            "ec2-18-170-40-62.eu-west-2.compute.amazonaws.com",
+            "ec2-18-170-230-245.eu-west-2.compute.amazonaws.com"
+        ]
+    }
+}
+2026-10-26 13:58:05,196 p=13858 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-26 13:58:05,584 p=13858 u=tunde n=ansible | @all:
+  |--@ungrouped:
+  |--@aws_ec2:
+  |  |--ec2-18-130-212-196.eu-west-2.compute.amazonaws.com
+  |  |--ec2-18-170-40-62.eu-west-2.compute.amazonaws.com
+  |  |--ec2-18-170-230-245.eu-west-2.compute.amazonaws.com
+  |--@name_banking_app:
+  |  |--ec2-18-130-212-196.eu-west-2.compute.amazonaws.com
+  |  |--ec2-18-170-40-62.eu-west-2.compute.amazonaws.com
+  |  |--ec2-18-170-230-245.eu-west-2.compute.amazonaws.com
+2026-10-26 14:28:11,022 p=19288 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-26 14:28:11,644 p=19288 u=tunde n=ansible | [WARNING]: Could not match supplied host pattern, ignoring: webserver
+
+2026-10-26 14:28:11,644 p=19288 u=tunde n=ansible | [WARNING]: No hosts matched, nothing to do
+
+2026-10-26 14:29:18,985 p=19535 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-26 14:29:19,431 p=19535 u=tunde n=ansible | [WARNING]: Could not match supplied host pattern, ignoring: webserver
+
+2026-10-26 14:29:19,431 p=19535 u=tunde n=ansible | [WARNING]: No hosts matched, nothing to do
+
+2026-10-26 14:30:29,138 p=19777 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-26 14:30:42,925 p=19777 u=tunde n=ansible | [WARNING]: Platform linux on host ec2-18-170-230-245.eu-west-2.compute.amazonaws.com is using the discovered Python
+interpreter at /usr/bin/python3.9, but future installation of another Python interpreter could change the meaning of that
+path. See https://docs.ansible.com/ansible-core/2.16/reference_appendices/interpreter_discovery.html for more information.
+
+2026-10-26 14:30:42,926 p=19777 u=tunde n=ansible | ec2-18-170-230-245.eu-west-2.compute.amazonaws.com | SUCCESS => {
+    "ansible_facts": {
+        "discovered_interpreter_python": "/usr/bin/python3.9"
+    },
+    "changed": false,
+    "ping": "pong"
+}
+2026-10-26 14:32:41,154 p=19777 u=tunde n=ansible | ec2-18-130-212-196.eu-west-2.compute.amazonaws.com | UNREACHABLE! => {
+    "changed": false,
+    "msg": "Failed to connect to the host via ssh: Host key verification failed.",
+    "unreachable": true
+}
+2026-10-26 14:32:42,006 p=19777 u=tunde n=ansible | ec2-18-170-40-62.eu-west-2.compute.amazonaws.com | UNREACHABLE! => {
+    "changed": false,
+    "msg": "Failed to connect to the host via ssh: Host key verification failed.",
+    "unreachable": true
+}
+2026-10-26 14:32:49,189 p=20414 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-26 14:32:49,754 p=20414 u=tunde n=ansible | [WARNING]: Could not match supplied host pattern, ignoring: webserver
+
+2026-10-26 14:32:49,755 p=20414 u=tunde n=ansible | playbook: playbook.yml
+2026-10-26 14:33:58,928 p=20657 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-26 14:33:59,600 p=20657 u=tunde n=ansible | [WARNING]: Could not match supplied host pattern, ignoring: webserver
+
+2026-10-26 14:33:59,601 p=20657 u=tunde n=ansible | PLAY [deploy banking application] *******************************************************************************************
+2026-10-26 14:33:59,601 p=20657 u=tunde n=ansible | skipping: no hosts matched
+2026-10-26 14:33:59,601 p=20657 u=tunde n=ansible | PLAY RECAP ******************************************************************************************************************
+2026-10-26 14:36:13,067 p=21171 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-26 14:36:13,555 p=21171 u=tunde n=ansible | [WARNING]: Could not match supplied host pattern, ignoring: webserver
+
+2026-10-26 14:36:13,556 p=21171 u=tunde n=ansible | PLAY [deploy banking application] *******************************************************************************************
+2026-10-26 14:36:13,556 p=21171 u=tunde n=ansible | skipping: no hosts matched
+2026-10-26 14:36:13,556 p=21171 u=tunde n=ansible | PLAY RECAP ******************************************************************************************************************
+2026-10-26 14:42:43,822 p=22450 u=tunde n=ansible | [WARNING]: No inventory was parsed, only implicit localhost is available
+
+2026-10-26 14:42:43,826 p=22450 u=tunde n=ansible | [WARNING]: provided hosts list is empty, only localhost is available. Note that the implicit localhost does not match 'all'
+
+2026-10-26 14:42:44,017 p=22450 u=tunde n=ansible | [WARNING]: Could not match supplied host pattern, ignoring: name_banking_app
+
+2026-10-26 14:42:44,017 p=22450 u=tunde n=ansible | playbook: playbook.yml
+2026-10-26 14:43:29,972 p=22622 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-26 14:43:30,484 p=22622 u=tunde n=ansible | playbook: playbook.yml
+2026-10-26 14:44:10,749 p=22784 u=tunde n=botocore.credentials | Found credentials in shared credentials file: ~/.aws/credentials
+2026-10-26 14:44:11,169 p=22784 u=tunde n=ansible | PLAY [deploy banking application] *******************************************************************************************
+2026-10-26 14:44:11,179 p=22784 u=tunde n=ansible | TASK [Gathering Facts] ******************************************************************************************************
+2026-10-26 14:44:13,473 p=22784 u=tunde n=ansible | [WARNING]: Platform linux on host ec2-18-170-230-245.eu-west-2.compute.amazonaws.com is using the discovered Python
+interpreter at /usr/bin/python3.9, but future installation of another Python interpreter could change the meaning of that
+path. See https://docs.ansible.com/ansible-core/2.16/reference_appendices/interpreter_discovery.html for more information.
+
+2026-10-26 14:44:13,473 p=22784 u=tunde n=ansible | ok: [ec2-18-170-230-245.eu-west-2.compute.amazonaws.com]
+2026-10-26 14:45:38,217 p=22784 u=tunde n=ansible |  [ERROR]: User interrupted execution
+

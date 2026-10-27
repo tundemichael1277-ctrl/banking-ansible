@@ -1,0 +1,20 @@
+---
+- name: deploy banking application
+  hosts: name_banking_app
+  become: true
+
+  tasks:
+    - name: install httpd
+      yum:
+        name: httpd
+        state: latest
+
+    - name: start httpd service
+      service:
+        name: httpd
+        state: started
+
+    - name: deploy application
+      copy:
+        content: '<html><body>Welcome to Devops</body></html>'
+        dest: /var/www/html/index.html
